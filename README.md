@@ -1,5 +1,6 @@
 # Osnovna ideja neuronskih mreža
 
+All material bellow can be seen through link : https://colab.research.google.com/drive/1um-QmoM5h17DmCtlawMZ0oxAMWiGbLb-?usp=sharing
 
 Pretpostavimo da imamo ulaznu sliku dimenzija \(n \times 12288\), gde je  
 \(12288 = 64 \times 64 \times 3\) (RGB pikseli). Svaka vrednost piksela je u opsegu \([0, 255]\), a pre ulaska u model se **normalizuje** (npr. podelom sa 255).  
